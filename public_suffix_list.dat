@@ -11713,6 +11713,12 @@ gitlab.io
 // Submitted by Jon Shanks <jon.shanks@digital.homeoffice.gov.uk>
 homeoffice.gov.uk
 
+// UKMinistryOfJustice : https://www.gov.uk/government/organisations/ministry-of-justice
+// Submitted by Lukasz Raczylo <lukasz.raczylo@digital.justice.gov.uk>
+*.digital.justice.gov.uk
+*.service.justice.gov.uk
+justice.gov.uk
+
 // GlobeHosting, Inc.
 // Submitted by Zoltan Egresi <egresi@globehosting.com>
 ro.im
